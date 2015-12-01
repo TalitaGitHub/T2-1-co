@@ -1,0 +1,58 @@
+
+
+body {
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 14px;
+    background-color: #EEEEEE;
+}
+
+h1 {
+    color: #0484AE;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+     
+}
+
+h2 {
+    color: #006666;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+     
+}
+
+a {
+    color: #0484AE;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+
+.tabelaListagem {
+    background: #000000;
+}
+
+.tabelaListagem th {
+    background: #EEEEEE;
+    padding: 5px;
+}
+
+.tabelaListagem td {
+    background: #FFFFFF;
+    padding: 5px;
+}
+
+.alinharDireita {
+    text-align: right;
+}
+
+p {
+    font-size: larger;
+    font-style: oblique;
+}
+
